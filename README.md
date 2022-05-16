@@ -1,1 +1,1 @@
-# New-respository
+# JavaScript Homework 1
