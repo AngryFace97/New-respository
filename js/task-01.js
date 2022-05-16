@@ -1,4 +1,3 @@
-// Task 1
 const numberOfCategories = Array.from(
   document.querySelectorAll("#categories > li")
 );
